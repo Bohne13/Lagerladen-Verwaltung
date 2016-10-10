@@ -13,11 +13,8 @@ Wenn du dies befolgt hast, fülle doch die unten stehenden Informationen aus.
 
 **Betriebssystem:**
 
-
 **Anwendungsversion:**
 
-
 **Fehlerbeschreibung:**
-
 
 **Schritte zum reproduzieren des Fehlers:**
